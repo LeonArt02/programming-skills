@@ -2,4 +2,4 @@
 # 💙 LeetCode Programming Skills Solutions
 ### Mainly Python
 
-- 31-11-2023 1. Completed
+- 31-11-2023 1. Merge Strings Alternately [Completed]
