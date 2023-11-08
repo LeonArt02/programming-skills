@@ -8,6 +8,8 @@
 - 05-11-2023 4. (242) Valid Anagram - Completed
 - 06-11-2023 5. (459) Repeated Substring Pattern - Completed
 - 07-11-2023 6. (283) Move Zeroes - Completed
+- 08-11-2023 7. (66) Plus one - 
+
 ---
 
 ### 🎯 Objective
