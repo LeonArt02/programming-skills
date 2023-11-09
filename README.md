@@ -1,6 +1,13 @@
 ### programming-skills
-# 💙 LeetCode Programming Skills Exercises
-### Python Solution for Programming Skills LeetCode Path
+# 💙 LeetCode Programming Skills Solutions
+
+### 🎯 Objectives
+- The main objective of this little project is to learn about programming and improve my knowledge on the field.
+- Improve Fluency in coding languajes, specially Python.
+- Improve problem interpretation.
+- Develop the hability of converting ideas into code.
+
+### Solutions for Programming Skills LeetCode Exercises
 
 - 31-11-2023 1. (1768) Merge Strings Alternately - Completed
 - 02-11-2023 2. (389) Find the Difference - Completed
@@ -12,8 +19,4 @@
 - 09-11-2023 8. (1882) Sign of the Product of an Array - Completed
 ---
 
-### 🎯 Objectives
-- The main objective of this little project is to learn about programming and improve my knowledge on the field.
-- Improve Fluency in coding languajes, specially Python.
-- Improve problem interpretation.
-- Develop the hability of converting ideas into code.
+
