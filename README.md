@@ -3,7 +3,7 @@
 
 ### 🎯 Objectives
 - The main objective of this little project is to learn about programming and improve my knowledge on the field.
-- Improve Fluency in coding languajes, specially Python.
+- Improve Fluency in coding languajgs, specially Python.
 - Improve problem interpretation.
 - Develop the hability of converting ideas into code.
 
