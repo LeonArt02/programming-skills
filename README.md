@@ -18,6 +18,9 @@
 - 07-11-2023 6. (283) Move Zeroes - Completed
 - 08-11-2023 7. (66) Plus one - Completed
 - 09-11-2023 8. (1882) Sign of the Product of an Array - Completed
+- 10-11-2023 9.
+
+
 ---
 
 
