@@ -20,7 +20,7 @@
 - 09-11-2023 8. (1882) Sign of the Product of an Array - Completed
 - 10-11-2023 9. (1502) Can Make Arithmetic Progr... - Completed
 - 11-11-2023 10. (896) Monotonic Array - Completed
-- 
+- 12-11-2023 11. ()
 
 ---
 
