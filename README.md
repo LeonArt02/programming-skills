@@ -23,7 +23,8 @@
 - 12-11-2023 11. (13) Roman To Integer - Completed
 - 13-11-2023 12. (58) Length of Last Word - Completed
 - 14-11-2023 13. (709) To Lower Case - Completed 
-- 15-11-2023 14. (682) Baseball Game -
+- 15-11-2023 14. (682) Baseball Game - Completed 
+  
 
 
 ---
