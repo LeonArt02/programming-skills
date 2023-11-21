@@ -26,9 +26,9 @@
 - 15-11-2023 14. (682) Baseball Game - Completed
 - 16-11-2023 15. (657) Return to Origin - Completed (to upload)
 - 17-11-2023 16. (1275) Find Winner on Tic Tac... - Completed
-- 19-11-2023 17 (1041) Robot Bounded In Circle - Completed
-- 20-11-2023 18 (1672) Richest Customer Wealth - ...
-
+- 21-11-2023 17. (1041) Robot Bounded In Circle - Completed
+- 22-11-2023 18. (1672) Richest Customer Wealth - ...
+- 23-11-2023 18. () ... 
 
 ---
 
