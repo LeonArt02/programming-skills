@@ -7,7 +7,7 @@
 - Improve problem interpretation.
 - Develop the hability of converting solution ideas into code.
 
-### ✅ Status : 20/49
+### ✅ Status : 20/33
 ### Solutions for Programming Skills LeetCode Exercises
 
 - 31-10-2023 1. (1768) Merge Strings Alternately - Completed
