@@ -30,6 +30,7 @@
 - 22-11-2023 18. (1672) Richest Customer Wealth - Completed
 - 23-11-2023 19. (1572) Matrix Diagonal Sum - Completed
 - 24-11-2023 20. (54) Spiral Matrix - Completed
+
 - 
 - 
 
