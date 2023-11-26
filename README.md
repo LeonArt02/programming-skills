@@ -7,7 +7,7 @@
 - Improve problem interpretation.
 - Develop the hability of converting solution ideas into code.
 
-### ✅ Status : 21/33
+### ✅ Status : 22/33
 ### Solutions for Programming Skills LeetCode Exercises
 
 - 31-10-2023 1. (1768) Merge Strings Alternately - Completed
@@ -31,7 +31,7 @@
 - 23-11-2023 19. (1572) Matrix Diagonal Sum - Completed
 - 24-11-2023 20. (54) Spiral Matrix - Completed
 - 25-11-2023 21. (73) Set Matrix Zeroes - Completed
-- 26-11-2023 22. (1523) Count Odd Numbers in ... - ...
+- 26-11-2023 22. (1523) Count Odd Numbers in ... - Completed
 - 
 - 
 
