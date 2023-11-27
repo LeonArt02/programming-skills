@@ -32,7 +32,7 @@
 - 24-11-2023 20. (54) Spiral Matrix - Completed
 - 25-11-2023 21. (73) Set Matrix Zeroes - Completed
 - 26-11-2023 22. (1523) Count Odd Numbers in ... - Completed
-- 27-11-2023 23. ()
+- 27-11-2023 23. (1491) Solution Average Salary Ex... - Completed
 - 
 - 
 
