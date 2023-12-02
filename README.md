@@ -35,7 +35,7 @@
 - 27-11-2023 23. (1491) Average Salary Ex... - Completed
 - 28-11-2023 24. (860) Lemonade Change - Completed
 - 30-11-2023 25. ()
-- 
+- 02-11-2023 26. ()
 
 ---
 
