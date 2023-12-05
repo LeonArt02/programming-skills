@@ -6,6 +6,7 @@
 - Improve Fluency in coding languages, specially Python.
 - Improve problem interpretation.
 - Develop the hability of converting solution ideas into code.
+- Python Implementation
 
 ### ✅ Status : 24/33
 ### Solutions for Programming Skills LeetCode Exercises
