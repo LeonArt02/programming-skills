@@ -36,7 +36,7 @@
 - 27-11-2023 23. (1491) Average Salary Ex... - Completed
 - 28-11-2023 24. (860) Lemonade Change - Completed
 - 30-11-2023 25. (976) Largest Perimeter Triangle - Completed
-- 02-12-2023 26. (1232) Check If It Is a Straight Line -
+- 02-12-2023 26. (1232) Check If It Is a Straight Line - Completed
 - 03-12-2023 27. (67) Add Binary - Completed
 - 04-12-2023 28. (43) Multiply Strings - Completed (to upload)
 - 05-12-2023 29. (50) Merge Two Sorted Lists - Not Completed
