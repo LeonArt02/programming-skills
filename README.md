@@ -1,12 +1,12 @@
 ### programming-skills
-# 💙 LeetCode Programming Skills Solutions
+# 💙 LeetCode Solutions
 
 ### 🎯 Objectives
-- The main objective of this little project is to learn programming and improve my general knowledge on the field.
-- Improve Fluency in coding languages, specially Python.
+- The main objective of this little project is to improve my general knowledge on the programming field.
+- Improve fluency Python.
 - Improve problem interpretation.
 - Develop the hability of converting solution ideas into code.
-- Mainly Python Implementation
+- Python Implementation
 
 ### ✅ Status : 30/30
 ### Solutions for Programming Skills LeetCode Exercises
