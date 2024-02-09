@@ -8,7 +8,7 @@
 - Develop the hability of converting solution ideas into code.
 - Mainly Python Implementation
 
-### ✅ Status : 27/33
+### ✅ Status : 30/30
 ### Solutions for Programming Skills LeetCode Exercises
 
 - 31-10-2023 1. (1768) Merge Strings Alternately - Completed
